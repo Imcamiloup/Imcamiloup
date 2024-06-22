@@ -4,9 +4,9 @@ I'm Luis Camilo Gómez Rodríguez, a passionate Full Stack Developer with a back
 
 ### Skills
 
-**Programming Languages:** JavaScript, Python, Julia, R.
+**Programming Languages:** TypeScript, Python, Julia, R.
 
-**Technologies:** Node.js, Express.js, Django, PostgreSQL, React.js, Git, GitHub.
+**Technologies:** Node, Express, Django, PostgreSQL, React, Git, GitHub.
 
 **Languages:** Native Spanish, English (B1 level).
 
