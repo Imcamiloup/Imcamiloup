@@ -1,33 +1,50 @@
 ## About Me
 
-I'm Luis Camilo Gómez Rodríguez, a passionate Full Stack Developer with a background in Mathematics from the National University of Colombia. I have 1 year of experience creating RESTful API servers, implementing SOLID programming principles, and working on real-world production projects.
+I'm **Luis Camilo Gómez Rodríguez**, a Full Stack Developer with a strong background in Mathematics from the National University of Colombia. I have over 2 years of experience developing and optimizing RESTful API servers, microservices, and database systems for production environments. I apply SOLID principles, write automated tests, and integrate secure and scalable backend architectures.
 
 ### Skills
 
-**Programming Languages:** TypeScript, Python, Julia, R.
-
-**Technologies:** Node, Express, Django, PostgreSQL, React, React Native, Git, GitHub.
-
-**Languages:** Native Spanish, English (B1 level).
+- **Programming Languages:** TypeScript, Java, Python, Julia, R.  
+- **Backend Frameworks:** NestJS, Express, Flask, Spring Boot.  
+- **Frontend Technologies:** React, React Native.  
+- **Databases:** PostgreSQL, MySQL, MongoDB (basic).  
+- **Tools & Platforms:** Git, Docker, AWS, Sequelize, Jest.
 
 ### Experience
 
-I have experience working as a Freelance Back-end Developer for Unix Telemetry, where I built a dashboard for tracking fleet drivers' history, a registration service app with login and token authentication, and other services using JavaScript, Express.js, and MySQL.
+- **Unix Telemetría (Freelance):**  
+  Built a backend system for managing fleet operations, stock, and supply chain data.  
+  Used TypeScript, NestJS, Spring Boot, and MySQL. Developed and tested backend endpoints and integrated dashboard analytics.
 
-I have also collaborated on team projects like an Online Shoe Store, where I implemented user authentication with JSON Web Tokens, backend filters, and main endpoints, as well as testing the backend endpoints using Jest.
+- **CSI Business Services SAS:**  
+  Developed a backend for a crop management system, including secure offline registration and synchronization services.  
+  Used Python with Flask, React Native, MySQL, and Jest for testing.
 
 ### Projects
 
-- **Pokemon App:** An open-source web application with a server that consumes the Pokemon API and a client that displays a long list of Pokemon with pagination, search, sorting, and filtering. Each Pokemon has its own detail view. Built with React.js, Express.js, PostgreSQL, and Sequelize ORM.
+- **MULE (2024):**  
+  Led a team in building a shipping agency app with React Native, Express, PostgreSQL, and JWT.  
+  Developed RESTful services with responsive UI and third-party auth integration.
 
-- **Shipping Logistics Web App:** A web application for managing shipping logistics, including a user interface and an admin interface with login, third-party login, Cloudinary integration, deployment, and the same technologies used in the Video Games App (React.js, Express.js, PostgreSQL, Sequelize ORM).
+- **Terra Verde (Hackathon Winner):**  
+  Built a supply chain dashboard for the premium coffee business, integrating AI for price prediction and harvest planning.  
+  Full stack development using Flask, React, PostgreSQL, deployed via SSH and Render.
 
-- **Video Games App:** An open-source web application with a server that consumes the RAWG video game database API and a client that displays a long list of video games with pagination, search, sorting, and filtering. Each game has its own detail view. Built with React.js, Express.js, PostgreSQL, and Sequelize ORM.
+- **Compensar Hackathon (2024):**  
+  Developed a centralized event platform for pop culture and gaming communities using Node.js, Express, React, and PostgreSQL.
 
-- **University Project:** Led a team project that built a logistics feedback model in Julia using the convex.jl library. The model included a convex problem with convex constraints based on a real-world scenario and its solution, aimed at reducing unnecessary inventory storage and transportation costs while maximizing efficiency.
+### Certifications
 
-I'm a highly motivated professional with a strong ability to stay focused on goals and overcome obstacles. My logical and mathematical skills allow me to contribute innovative algorithmic solutions, and my understanding of others' needs enables effective collaboration.
+- **Full Stack Developer Bootcamp** – Henry (2023–2024)  
+- **Cloud Architecture Course** – Talento Tech Colombia (2024)  
+- **Cybersecurity Specialization** – Coursera (2025)
 
-If you want contact me you can it!
-**Email**: luiscgr97@gmal.com
-**Phone**: +573507058463
+I'm highly motivated, adaptable, and proactive. My mathematical training supports algorithmic thinking, and my collaborative mindset allows me to align well with team goals and client needs.
+
+---
+
+**Contact:**  
+📧 luiscgr97@gmail.com  
+📞 +57 350 7058463  
+🔗 [GitHub](https://github.com/Imcamiloup) | [LinkedIn](https://www.linkedin.com/in/imcamiloup)
+
